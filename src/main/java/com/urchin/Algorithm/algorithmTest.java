@@ -1,6 +1,4 @@
-package com.urchin.algorithm;
-
-import org.junit.jupiter.api.Test;
+package com.urchin.Algorithm;
 
 import java.util.Arrays;
 
