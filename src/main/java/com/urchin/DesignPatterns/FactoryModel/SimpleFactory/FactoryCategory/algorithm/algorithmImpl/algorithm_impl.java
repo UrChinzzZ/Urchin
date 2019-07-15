@@ -1,9 +1,6 @@
 package com.urchin.DesignPatterns.FactoryModel.SimpleFactory.FactoryCategory.algorithm.algorithmImpl;
-
 import com.urchin.DesignPatterns.FactoryModel.SimpleFactory.FactoryCategory.algorithm.algorithm;
-
 import java.math.BigDecimal;
-
 public class algorithm_impl implements algorithm{
 
     @Override
