@@ -2,7 +2,8 @@
 *@author :Kevin  Ding
 *@Date :2019年7月11日-下午5:11:18
 *@Description :lambdaTest
-**/
+**//*
+
 package com.urchin.Algorithm;
 
 import java.util.Arrays;
@@ -55,3 +56,4 @@ public class Lambda {
 		operateNumber(type);
 	}
 }
+*/
