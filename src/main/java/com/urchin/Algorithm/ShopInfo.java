@@ -1,18 +1,15 @@
 /**
 *@author :Kevin  Ding
 *@Date :2019年7月17日-上午11:54:31
-*@Description :TODO
+*@Description :百度外卖店铺信息网页版爬取
 **/
 package com.urchin.Algorithm;
 
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
-import java.io.IOException;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 
 
