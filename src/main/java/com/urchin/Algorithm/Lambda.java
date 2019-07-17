@@ -23,13 +23,12 @@ public class Lambda {
 		});
 		thread1.start();
 	}
-	
 	static	void threadUseLambda() {
 		Thread thread2 = new Thread(() -> System.err.println("use lambda"));
 		thread2.start();
 	}
-	
-	
+
+
 	static void operateNumber(int type) {
 		List<Integer> integers = Arrays.asList(4, 5, 6,1, 2, 3,7, 8,8,9,10);
 		if (type == 0) {
