@@ -58,7 +58,7 @@ public class ShopInfo {
 		    if (fw != null) {
 				fw.close();
 			}
-		    System.out.println("运行结束，sb书豪");
+		    System.out.println("运行结束，sb书豪！");
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
