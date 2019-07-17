@@ -35,7 +35,6 @@ public class Node {
         }
   
     }
-    
     public List<Object> values() {
         List<Object> values = new ArrayList<>();
         if (null != leftNode)
