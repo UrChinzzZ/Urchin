@@ -18,7 +18,7 @@ import javax.swing.JTextField;
 public class CalcDemo extends JFrame {
 
 	/**
-	 * 
+	 *
 	 */
 	private static final long serialVersionUID = 1L;
 	//创建面板标签按钮控件
