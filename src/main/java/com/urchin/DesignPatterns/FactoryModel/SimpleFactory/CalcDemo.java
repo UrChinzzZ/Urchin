@@ -35,6 +35,7 @@ public class CalcDemo extends JFrame {
 	//主方法
 	public static void main(String[] args) {
 		new CalcDemo();
+		System.out.println("SB书豪");
 	}
 	//计算方法
 	private void calculate(int operators) {
