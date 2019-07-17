@@ -20,6 +20,26 @@
   </properties>
 
   <dependencies>
+  	 <!-- nutz依赖 -->
+    <dependency>
+   	<groupId>org.nutz</groupId>
+    	<artifactId>nutz</artifactId>
+    	<version>1.r.62</version>
+	</dependency>
+	
+	<!-- jdbc依赖 MySQL -->
+	<dependency>
+	        <groupId>mysql</groupId>
+	        <artifactId>mysql-connector-java</artifactId>
+	        <version>5.1.32</version>
+	</dependency>
+	
+	<dependency>
+		<groupId>org.jsoup</groupId>
+		<artifactId>jsoup</artifactId>
+		<version>1.11.3</version>
+	</dependency>
+
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
