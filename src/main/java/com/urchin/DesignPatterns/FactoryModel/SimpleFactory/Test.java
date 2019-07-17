@@ -45,7 +45,7 @@ public class Test {
 */
 	   	calculate();
     }
-	
+	//给sb书豪的代码优化
     public static void  calculate() {
     	algorithm algorithm=new algorithm_impl();
         Scanner scanner=new Scanner(System.in);
