@@ -43,7 +43,9 @@ public class Test {
             System.out.println("结果是："+algorithm.division(a,b));
         }
 */
+       System.out.println("开始启动");
 	   	calculate();
+
     }
 	//给sb书豪的代码优化
     public static void  calculate() {

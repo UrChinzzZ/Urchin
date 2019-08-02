@@ -4,15 +4,11 @@
 *@Description :百度外卖店铺信息网页版爬取
 **/
 package com.urchin.Algorithm;
-
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.util.ArrayList;
 import java.util.List;
-
-
-
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
@@ -34,8 +30,8 @@ public class ShopInfo {
 			 String address = document.select(".b-info dl").get(2).text();
 			 System.out.println("店铺地址"+address);
 			 info.add(address);
-			 info.add(shopName);
 			 info.add(time);
+			info.add(shopName);
 			 info.add(type);
 			 String path="c://test//shop.txt";
 			 File file=new File(path);
