@@ -77,6 +77,4 @@ public class Test {
         scanner3.close();
         scanner1.close();
     }
-
-
 }

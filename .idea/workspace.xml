@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e364360-a56d-45ca-815f-5e4b8ea766d9" name="Default Changelist" comment="测试">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/urchin/leetcode/No739.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/urchin/Algorithm/Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/urchin/Algorithm/Lambda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/urchin/DesignPatterns/FactoryModel/SimpleFactory/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/urchin/DesignPatterns/FactoryModel/SimpleFactory/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/urchin/algorithm/algorithmTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/urchin/algorithm/algorithmTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,28 +18,21 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/urchin/Algorithm/ShopInfo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/urchin/Algorithm/algorithmTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-132">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="363">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/urchin/DesignPatterns/FactoryModel/SimpleFactory/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/urchin/leetcode/No739.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="46" column="20" lean-forward="true" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="344">
+              <caret line="49" column="8" lean-forward="true" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -50,8 +42,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -82,6 +74,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/urchin/Algorithm/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/urchin/Algorithm/Lambda.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/urchin/DesignPatterns/FactoryModel/SimpleFactory/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/urchin/leetcode/No739.java" />
       </list>
     </option>
   </component>
@@ -91,6 +84,11 @@
         <option name="mavenHome" value="E:/apache-maven-3.3.9" />
         <option name="userSettingsFile" value="E:\apache-maven-3.3.9\conf\settings.xml" />
       </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -107,97 +105,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="attempt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="attempt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="attempt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="attempt" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="attempt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="attempt" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="attempt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="attempt" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="attempt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="attempt" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="attempt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="attempt" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="urchin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="attempt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="attempt" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="urchin" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="attempt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="attempt" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="urchin" type="462c0819:PsiDirectoryNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="attempt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="attempt" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="urchin" type="462c0819:PsiDirectoryNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="FactoryModel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="attempt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="attempt" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="urchin" type="462c0819:PsiDirectoryNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="FactoryModel" type="462c0819:PsiDirectoryNode" />
-              <item name="SimpleFactory" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Lambda">
+  <component name="RunManager" selected="Application.No739">
     <configuration name="CalcDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.urchin.DesignPatterns.FactoryModel.SimpleFactory.CalcDemo" />
       <module name="attempt" />
@@ -254,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Node" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.urchin.Algorithm.Node" />
+    <configuration name="No739" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.urchin.leetcode.No739" />
       <module name="Urchin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.urchin.Algorithm.*" />
+          <option name="PATTERN" value="com.urchin.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No739" />
         <item itemvalue="Application.Lambda" />
         <item itemvalue="Application.algorithmTest" />
         <item itemvalue="Application.ShopInfo" />
         <item itemvalue="Application.CalcDemo" />
-        <item itemvalue="Application.Node" />
       </list>
     </recent_temporary>
   </component>
@@ -322,6 +232,7 @@
       <workItem from="1563183998603" duration="2790000" />
       <workItem from="1563349192648" duration="344000" />
       <workItem from="1563351939852" duration="2686000" />
+      <workItem from="1568775862230" duration="7334000" />
     </task>
     <task id="LOCAL-00001" summary="第一次上传">
       <created>1562747941049</created>
@@ -353,7 +264,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21113000" />
+    <option name="totallyTimeSpent" value="28447000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -368,7 +279,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24840085" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25053304" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -378,14 +289,14 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.283857" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" visible="true" weight="0.283857" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4989339" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4978678" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50159913" side_tool="true" visible="true" weight="0.283857" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5021322" side_tool="true" visible="true" weight="0.283857" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" sideWeight="0.49626866" weight="0.32936078" />
       <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.4978678" weight="0.32827735" />
@@ -465,10 +376,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/urchin/DesignPatterns/FactoryModel/SimpleFactory/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="78" column="5" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/urchin/Algorithm/ShopInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/urchin/Algorithm/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        <state relative-caret-position="1551">
+          <caret line="52" column="32" lean-forward="true" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -479,24 +411,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/urchin/Algorithm/ShopInfo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/urchin/leetcode/No739.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-132">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/urchin/DesignPatterns/FactoryModel/SimpleFactory/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="46" column="20" lean-forward="true" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="344">
+          <caret line="49" column="8" lean-forward="true" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
         </state>
       </provider>
     </entry>
