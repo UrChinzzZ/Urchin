@@ -31,7 +31,7 @@ public class ShopInfo {
 			 System.out.println("店铺地址"+address);
 			 info.add(address);
 			 info.add(time);
-			info.add(shopName);
+			 info.add(shopName);
 			 info.add(type);
 			 String path="c://test//shop.txt";
 			 File file=new File(path);

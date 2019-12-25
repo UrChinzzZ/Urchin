@@ -11,7 +11,7 @@ public class HashMapTest {
 		System.out.println(res);
 		int [] array = {1,2,3,4,5};
 	 	int idx = index(array, 4);
-	 	System.out.println(idx);
+	 	System.out.println("所查询的值的下标为"+idx);
 	}
 	
 	/** 
@@ -20,7 +20,7 @@ public class HashMapTest {
 	 */
 	static int tableSizeFor(int cap) {
 		int n = cap - 1;
-		n|= n>>>1;
+		n|= n>>>1;//向右移位3
 		n|= n>>>2;
 		n|= n>>>4;
 		return (n<0)?1:n+1;

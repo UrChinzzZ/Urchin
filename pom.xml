@@ -7,7 +7,6 @@
   <groupId>com.Urchin</groupId>
   <artifactId>Urchin</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>war</packaging>
 
   <name>Urchin Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
@@ -45,6 +44,12 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <!-- 添加sevlet支持 -->
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>javax.servlet-api</artifactId>
+			<version>3.1.0</version>
+		</dependency>
 
     <!-- <dependency>
       <groupId>junit</groupId>
@@ -58,6 +63,19 @@
       <version>RELEASE</version>
       <scope>compile</scope>
     </dependency>
+    
+    
+    
+    <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi</artifactId>
+            <version>3.14</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi-ooxml</artifactId>
+            <version>3.14</version>
+        </dependency>
   </dependencies>
 
   <build>
@@ -69,6 +87,7 @@
           <version>3.1.0</version>
         </plugin>
         <!-- see http://maven.apache.org/ref/current/maven-core/default-bindings.html#Plugin_bindings_for_war_packaging -->
+        
         <plugin>
           <artifactId>maven-resources-plugin</artifactId>
           <version>3.0.2</version>
